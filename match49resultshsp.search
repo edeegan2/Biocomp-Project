@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_001062605.1       -          hspoutput            -           1.9e-209  694.7  27.5  2.3e-187  621.7  22.4   2.0   1   1   1   2   2   2   2 MULTISPECIES: molecular chaperone DnaK 
+WP_001196574.1       -          hspoutput            -           4.5e-110  366.4   4.3  2.3e-109  364.1   4.3   1.8   1   1   0   1   1   1   1 MULTISPECIES: Fe-S protein assembly chaperone HscA 
+WP_000601379.1       -          hspoutput            -            5.7e-09   32.5   0.1     1e-08   31.6   0.1   1.5   1   1   0   1   1   1   1 MULTISPECIES: rod shape-determining protein 
+#
+# Program:         hmmsearch
+# Version:         3.3.1 (Jul 2020)
+# Pipeline mode:   SEARCH
+# Query file:      resultshsp
+# Target file:     ./proteomes/proteome_49.fasta
+# Option settings: /afs/crc.nd.edu/user/e/edeegan2/Private/hammer/bin/hmmsearch --tblout match49resultshsp.search resultshsp ./proteomes/proteome_49.fasta 
+# Current dir:     /afs/crc.nd.edu/user/e/edeegan2/Private/Project/Biocomp-Project
+# Date:            Fri Oct 15 11:05:15 2021
+# [ok]

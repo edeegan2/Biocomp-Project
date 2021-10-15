@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_013362005.1       -          hspoutput            -           4.4e-258  854.7  25.2  5.3e-258  854.5  25.2   1.1   1   0   0   1   1   1   1 molecular chaperone DnaK 
+WP_013360607.1       -          hspoutput            -            9.8e-99  328.4   0.3   1.2e-98  328.0   0.3   1.1   1   0   0   1   1   1   1 molecular chaperone HscC 
+WP_013362571.1       -          hspoutput            -            1.5e-08   30.5   4.1   3.3e-08   29.3   4.1   1.9   1   1   0   1   1   1   1 rod shape-determining protein 
+#
+# Program:         hmmsearch
+# Version:         3.3.1 (Jul 2020)
+# Pipeline mode:   SEARCH
+# Query file:      resultshsp
+# Target file:     ./proteomes/proteome_32.fasta
+# Option settings: /afs/crc.nd.edu/user/e/edeegan2/Private/hammer/bin/hmmsearch --tblout match32resultshsp.search resultshsp ./proteomes/proteome_32.fasta 
+# Current dir:     /afs/crc.nd.edu/user/e/edeegan2/Private/Project/Biocomp-Project
+# Date:            Fri Oct 15 11:05:13 2021
+# [ok]
