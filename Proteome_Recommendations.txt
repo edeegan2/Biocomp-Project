@@ -1,8 +1,8 @@
 Proteome Recommendations:
 
 After looking at our sorted output table we determined that these are the best Proteome candidates.
-These canidates were picked for their resistence to pH, due to their high levels of HSP and Methane.
-(The last three Proteome recommendations are not as good as the first six, due to their lower level$
+These canidates were picked for their resistence to pH, due to their high levels of HSP and their ability to produce methane, seen by having at least one MCRA gene match.
+(The last three Proteome recommendations are not as good as the first six, due to their lower level of hsp matches)
 
 
 Proteome_23 (HSP 2) (MCRA 2)
