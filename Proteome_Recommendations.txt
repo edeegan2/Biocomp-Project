@@ -1,0 +1,16 @@
+Proteome Recommendations:
+
+After looking at our sorted output table we determined that these are the best Proteome candidates.
+These canidates were picked for their resistence to pH, due to their high levels of HSP and Methane.
+(The last three Proteome recommendations are not as good as the first six, due to their lower level$
+
+
+Proteome_23 (HSP 2) (MCRA 2)
+Proteome_19 (HSP 2) (MCRA 2)
+Proteome_50 (HSP 3) (MCRA 1)
+Proteome_45 (HSP 3) (MCRA 1)
+Proteome_42 (HSP 3) (MCRA 1)
+Proteome_03 (HSP 3) (MCRA 1)
+Proteome_24 (HSP 2) (MCRA 1)
+Proteome_07 (HSP 2) (MCRA 1)
+Proteome_05 (HSP 2) (MCRA 1)
